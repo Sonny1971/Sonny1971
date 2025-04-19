@@ -26,7 +26,7 @@
 ---
 
 ## 📬 Contacto
-- 🌐 Web: *[https://sonny1971.github.io/CV/](https://sonny1971.github.io/CV/)]*  
+- 🌐 Web: *[https://sonny1971.github.io/CV/](https://sonny1971.github.io/CV/)*  
 
 ---
 
