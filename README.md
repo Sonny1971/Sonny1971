@@ -10,7 +10,7 @@
 
 - 👩‍🏫 Docente del Nivel Primario con vocación por la enseñanza
 - 💻 Desarrolladora Frontend con conocimientos en HTML, CSS, JavaScript y frameworks modernos
-- 🌱 En constante aprendizaje sobre UX/UI, React, Angular y diseño educativo interactivo
+- 🌱 En constante aprendizaje sobre UX/UI y diseño educativo interactivo
 - 🧠 Amante del aprendizaje activo, el diseño accesible y la integración de tecnología en el aula
 - 🧩 Interesada en crear experiencias educativas digitales para niños y niñas
 
